@@ -1,0 +1,39 @@
+{
+  "_comment": "取得対象の設定ファイル。ここを書き換えるだけで対象や条件を変えられます。",
+
+  "topics": [
+    { "topic": "ai-agent",                 "minStars": 500 },
+    { "topic": "ai-agents",                "minStars": 500 },
+    { "topic": "llm-agent",                "minStars": 300 },
+    { "topic": "llm-agents",               "minStars": 300 },
+    { "topic": "agentic-ai",               "minStars": 500 },
+    { "topic": "autonomous-agents",        "minStars": 500 },
+    { "topic": "multi-agent",              "minStars": 500 },
+    { "topic": "agent-framework",          "minStars": 300 },
+    { "topic": "agents",                   "minStars": 2000 },
+    { "topic": "mcp",                      "minStars": 1000 },
+    { "topic": "model-context-protocol",   "minStars": 500 }
+  ],
+
+  "_perPage": "1トピックあたり何件まで取るか（最大100）。star降順なので100で十分です。",
+  "perPage": 100,
+
+  "_exclude": "AIエージェントと関係ないのに引っかかるリポジトリをここに書くと除外されます。",
+  "exclude": {
+    "repos": [
+      "sindresorhus/awesome",
+      "public-apis/public-apis",
+      "vinta/awesome-python",
+      "awesome-selfhosted/awesome-selfhosted",
+      "thedaviddias/Front-End-Checklist",
+      "Snailclimb/JavaGuide"
+    ]
+  },
+
+  "_report": "レポートに出す件数と、伸びランキングを集計する期間（日数）。",
+  "report": {
+    "topN": 30,
+    "growthPeriods": [7, 30, 90, 180, 365],
+    "newcomerPeriods": [7, 30, 90, 180, 365]
+  }
+}

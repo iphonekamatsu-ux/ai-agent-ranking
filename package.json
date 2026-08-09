@@ -1,0 +1,15 @@
+{
+  "name": "toolgit",
+  "version": "1.0.0",
+  "description": "GitHub の AI エージェント関連リポジトリを star ランキングで定期取得するツール",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "fetch": "node src/fetch.js",
+    "report": "node src/report.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

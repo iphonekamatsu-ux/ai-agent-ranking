@@ -1,0 +1,39 @@
+name: 週次ランキング取得
+
+on:
+  schedule:
+    # 毎週月曜 0:00 UTC = 日本時間 月曜 9:00
+    - cron: '0 0 * * 1'
+  # GitHub の画面から手動実行するためのボタンを出す
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 取得とレポート生成
+        env:
+          # GitHub が自動で用意するトークン。自分で作る必要はない。
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node src/index.js
+
+      - name: 結果をコミット
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add snapshots reports
+          if git diff --staged --quiet; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git commit -m "chore: ランキング更新 $(date -u '+%Y-%m-%d')"
+            git push
+          fi
