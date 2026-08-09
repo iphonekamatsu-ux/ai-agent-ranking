@@ -104,19 +104,28 @@ async function main() {
   }
 
   const list = [...repos.values()].sort((a, b) => b.stars - a.stars);
+  console.log(`\nGitHub: ${list.length} リポジトリ（重複除外後）／除外リスト該当 ${skipped} 件`);
+
+  // GitHub 以外の情報源（Hacker News、Hugging Face、arXiv、Zenn、Qiita、Reddit）
+  console.log('\nその他の情報源を取得します');
+  const { collectAll } = require('./feeds');
+  const feeds = await collectAll(cfg);
 
   const snapshot = {
     fetchedAt: new Date().toISOString(),
     topics: cfg.topics,
     repoCount: list.length,
     repos: list,
+    itemCount: feeds.items.length,
+    items: feeds.items,
+    sourceStatus: feeds.status,
   };
 
   ensureDir(PATHS.snapshots);
   const outFile = path.join(PATHS.snapshots, `${dateKey()}.json`);
   fs.writeFileSync(outFile, JSON.stringify(snapshot, null, 2), 'utf8');
 
-  console.log(`\n完了: ${list.length} リポジトリ（重複除外後）／除外リスト該当 ${skipped} 件`);
+  console.log(`\n完了: GitHub ${list.length} 件 + その他 ${feeds.items.length} 件`);
   console.log(`保存先: ${path.relative(PATHS.root, outFile)}`);
 }
 

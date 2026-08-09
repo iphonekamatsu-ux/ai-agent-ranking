@@ -30,9 +30,53 @@
     ]
   },
 
+  "_aiPattern": "Hacker News など全文検索の情報源で、タイトルがAI関連かを最終判定する正規表現です。",
+  "aiPattern": "\\b(ai agents?|ai|agentic|llms?|mcp|model context protocol|claude|gpt-?[0-9.]*|openai|anthropic|gemini|copilot|prompt(ing|s)?|rag|inference|fine-?tun\\w*|transformer|codex|diffusion|embedding|chatbot|deepseek|qwen|llama)\\b",
+
+  "_sources": "GitHub以外の情報源。enabled を false にするとその情報源を止められます。",
+  "sources": {
+    "hackernews": {
+      "enabled": true,
+      "keywords": ["AI agent", "agentic", "LLM", "MCP", "Claude", "GPT", "OpenAI", "Anthropic"],
+      "minPoints": 100,
+      "lookbackDays": 8
+    },
+    "huggingface": {
+      "enabled": true,
+      "limit": 30
+    },
+    "arxiv": {
+      "enabled": true,
+      "categories": ["cs.AI", "cs.MA", "cs.CL"],
+      "limit": 30,
+      "lookbackDays": 8
+    },
+    "zenn": {
+      "enabled": true,
+      "topics": ["ai", "llm", "claudecode", "生成ai"],
+      "limit": 20
+    },
+    "qiita": {
+      "enabled": true,
+      "tags": ["AI", "LLM", "ClaudeCode"],
+      "limit": 20,
+      "lookbackDays": 8
+    },
+    "reddit": {
+      "_note": "REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET が未設定の場合は自動でスキップされます。",
+      "enabled": true,
+      "subreddits": ["LocalLLaMA", "AI_Agents", "ClaudeAI", "OpenAI", "MachineLearning", "singularity"],
+      "period": "week",
+      "limit": 25,
+      "minScore": 50,
+      "applyAiFilter": false
+    }
+  },
+
   "_report": "レポートに出す件数と、伸びランキングを集計する期間（日数）。",
   "report": {
     "topN": 30,
+    "feedTopN": 15,
     "growthPeriods": [7, 30, 90, 180, 365],
     "newcomerPeriods": [7, 30, 90, 180, 365]
   }

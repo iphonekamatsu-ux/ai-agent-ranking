@@ -126,6 +126,99 @@ function buildNewcomerSection(latest, fetchedAt, periodDays, topN) {
   return lines.join('\n');
 }
 
+/** 記事1行分の表の行を作る */
+function itemRow(rank, item, extraCol) {
+  const link = `[${cell(item.title, 66)}](${item.url})`;
+  const score = item.scoreUnit ? `${num(item.score)}${item.scoreUnit}` : '—';
+  const date = item.createdAt ? item.createdAt.slice(0, 10) : '—';
+  return `| ${rank} | ${link} | ${score} | ${extraCol ?? date} |`;
+}
+
+/**
+ * 情報源ごとの章を作る。
+ * 同じ記事が毎週並ぶのを避けるため「新着」「伸び」「総合」に分けている。
+ */
+function buildFeedSections(latest, prevEntry, cfg) {
+  const { SOURCES } = require('./feeds');
+  const topN = cfg.report?.feedTopN || 15;
+  const items = latest.items || [];
+  if (items.length === 0) return '';
+
+  const prev = prevEntry
+    ? new Map((readSnapshot(prevEntry).items || []).map((i) => [i.id, i]))
+    : null;
+  const statusByKey = new Map((latest.sourceStatus || []).map((s) => [s.key, s]));
+
+  const out = ['## 4. GitHub 以外の情報源', ''];
+  if (!prev) {
+    out.push('> 初回のため、すべて新着として扱っています。次回から「新着」「伸び」が区別されます。', '');
+  }
+
+  for (const source of SOURCES) {
+    const list = items.filter((i) => i.source === source.KEY);
+    const status = statusByKey.get(source.KEY);
+
+    out.push(`### ${source.LABEL}`, '');
+
+    if (list.length === 0) {
+      const reason = status?.note || '取得できませんでした';
+      out.push(`> ${status?.state === 'skipped' ? '⏭️' : '⚠️'} ${reason}`, '');
+      continue;
+    }
+
+    const hasScore = list.some((i) => i.scoreUnit);
+
+    // --- 新着（前回の記録に無かったもの） ---
+    const fresh = prev ? list.filter((i) => !prev.has(i.id)) : list;
+    const freshSorted = hasScore
+      ? [...fresh].sort((a, b) => b.score - a.score)
+      : [...fresh].sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt)));
+
+    out.push(`**🆕 新着 ${freshSorted.length} 件**`, '');
+    if (freshSorted.length === 0) {
+      out.push('前回から新しいものはありませんでした。', '');
+    } else {
+      out.push('| # | タイトル | スコア | 日付 |', '|---:|---|---:|---|');
+      freshSorted.slice(0, topN).forEach((it, i) => out.push(itemRow(i + 1, it)));
+      out.push('');
+    }
+
+    // --- 伸び（前回よりスコアが上がったもの） ---
+    if (prev && hasScore) {
+      const risen = list
+        .map((i) => {
+          const before = prev.get(i.id);
+          return before ? { ...i, delta: i.score - before.score } : null;
+        })
+        .filter((i) => i && i.delta > 0)
+        .sort((a, b) => b.delta - a.delta);
+
+      if (risen.length > 0) {
+        out.push(`**📈 前回から伸びたもの ${risen.length} 件**`, '');
+        out.push('| # | タイトル | 現在 | 増加 |', '|---:|---|---:|---:|');
+        risen
+          .slice(0, topN)
+          .forEach((it, i) => out.push(itemRow(i + 1, it, `**+${num(it.delta)}**`)));
+        out.push('');
+      }
+    }
+
+    // --- 総合トップ（既出も含む） ---
+    if (hasScore) {
+      const top = [...list].sort((a, b) => b.score - a.score).slice(0, topN);
+      out.push(`**総合トップ ${top.length} 件**（前回も掲載されたものには 🔁 が付きます）`, '');
+      out.push('| # | タイトル | スコア | 状態 |', '|---:|---|---:|---|');
+      top.forEach((it, i) => {
+        const mark = prev && prev.has(it.id) ? '🔁 既出' : '🆕 新着';
+        out.push(itemRow(i + 1, it, mark));
+      });
+      out.push('');
+    }
+  }
+
+  return out.join('\n');
+}
+
 function buildTotalSection(latest, topN) {
   const rows = [...latest.repos].sort((a, b) => b.stars - a.stars).slice(0, topN);
   const lines = [
@@ -195,6 +288,13 @@ function main() {
   md.push('');
   for (const days of cfg.report?.growthPeriods || [7, 30, 90, 180, 365]) {
     md.push(buildGrowthSection(snapshots, latest, latestEntry.date, days, topN));
+  }
+
+  const feedSections = buildFeedSections(latest, snapshots[snapshots.length - 2] || null, cfg);
+  if (feedSections) {
+    md.push('---');
+    md.push('');
+    md.push(feedSections);
   }
 
   const out = md.join('\n');

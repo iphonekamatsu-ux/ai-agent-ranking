@@ -24,6 +24,9 @@ jobs:
         env:
           # GitHub が自動で用意するトークン。自分で作る必要はない。
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Reddit のみ認証が必要。未登録なら空のままでよく、その場合は自動でスキップされる。
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: node src/index.js
 
       - name: 結果をコミット

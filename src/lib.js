@@ -57,4 +57,65 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-module.exports = { PATHS, loadConfig, dateKey, ensureDir, listSnapshots, readSnapshot, daysBetween, sleep };
+/** 各サービスに名乗る User-Agent。Reddit のように書式を要求するサービスがあるため統一する。 */
+const USER_AGENT = 'nodejs:ai-agent-ranking:v1.0 (github.com/iphonekamatsu-ux/ai-agent-ranking)';
+
+/**
+ * 共通の HTTP 取得。一時的な失敗は少し待って再試行する。
+ * 恒久的な失敗（404 など）は即座に例外にする。
+ */
+async function httpGet(url, { headers = {}, retries = 2, asText = false } = {}) {
+  let lastError;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, ...headers } });
+      if (res.ok) return asText ? res.text() : res.json();
+
+      // 混雑・レート制限は再試行の価値がある
+      if (res.status === 429 || res.status >= 500) {
+        lastError = new Error(`HTTP ${res.status}`);
+      } else {
+        throw new Error(`HTTP ${res.status} ${res.statusText}`);
+      }
+    } catch (err) {
+      lastError = err;
+      // 証明書エラーは再試行しても直らないので即座に諦める
+      if (err.cause && err.cause.code === 'UNABLE_TO_GET_ISSUER_CERT_LOCALLY') {
+        throw new Error(
+          '証明書エラー。ローカル実行時は NODE_OPTIONS=--use-system-ca が必要です（run.bat は設定済み）。'
+        );
+      }
+    }
+    if (attempt < retries) await sleep(2000 * (attempt + 1));
+  }
+  throw lastError || new Error('取得に失敗しました');
+}
+
+/** XML の 1 要素を取り出す（外部ライブラリを使わないための簡易処理） */
+function xmlTag(xml, tag) {
+  const m = xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`));
+  if (!m) return '';
+  return m[1]
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&amp;/g, '&')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+module.exports = {
+  PATHS,
+  loadConfig,
+  dateKey,
+  ensureDir,
+  listSnapshots,
+  readSnapshot,
+  daysBetween,
+  sleep,
+  httpGet,
+  xmlTag,
+  USER_AGENT,
+};
