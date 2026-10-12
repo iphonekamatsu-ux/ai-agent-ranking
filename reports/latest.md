@@ -1,6 +1,6 @@
 # AI エージェント関連 GitHub リポジトリ ランキング
 
-取得日時: **2026-10-05 05:02 UTC**　/　対象: **818 リポジトリ**　/　記録回数: **10 回**
+取得日時: **2026-10-12 05:23 UTC**　/　対象: **815 リポジトリ**　/　記録回数: **11 回**
 
 対象トピック: `ai-agent`, `ai-agents`, `llm-agent`, `llm-agents`, `agentic-ai`, `autonomous-agents`, `multi-agent`, `agent-framework`, `agents`, `mcp`, `model-context-protocol`
 
@@ -10,36 +10,36 @@
 
 | # | リポジトリ | ★ | 言語 | 最終更新 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 273,068 | JavaScript | 2026-10-05 | The agent harness performance optimization system. Skills, instincts,… |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 251,268 | Python | 2026-10-05 | The agent that grows with you |
-| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 243,503 | TypeScript | 2026-10-03 | DeepSeek Harness: Everything is a Plugin. |
-| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 206,679 | TypeScript | 2026-10-05 | Fair-code workflow automation platform with native AI capabilities. C… |
-| 5 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 188,670 | TypeScript | 2026-10-04 | Supercharge your AI agents with data from the web and beyond. Buildin… |
-| 6 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,657 | Python | 2026-10-04 | AutoGPT is the vision of accessible AI for everyone, to use and to bu… |
-| 7 | [langgenius/dify](https://github.com/langgenius/dify) | 157,858 | TypeScript | 2026-10-05 | Build Agentic workflows, RAG pipelines, with rich AI model and tool s… |
-| 8 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,506 | Python | 2026-10-05 | Langflow is a powerful tool for building and deploying AI-powered age… |
-| 9 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 155,087 | JavaScript | 2026-10-05 | Makes your AI agent think like the laziest senior dev in the room. Th… |
-| 10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 153,969 | Python | 2026-10-05 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,450 | Python | 2026-10-04 | The agent engineering platform. |
-| 12 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 140,733 | Python | 2026-09-30 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
-| 13 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 140,064 | Rust | 2026-10-05 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
-| 14 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 123,835 | Python | 2026-10-04 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
-| 15 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 117,151 | Python | 2026-10-03 | Agents that use the browser. |
-| 16 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107,240 | TypeScript | 2026-10-05 | An open-source AI agent that brings the power of Gemini directly into… |
-| 17 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96,221 | TypeScript | 2026-10-05 | Persistent Context Across Sessions for Every Agent –  Captures everyt… |
-| 18 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95,837 |  | 2026-09-27 | A collection of MCP servers. |
-| 19 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,687 | Go | 2026-10-04 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG)… |
-| 20 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 91,081 | Python | 2026-09-15 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
-| 21 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,791 | TypeScript | 2026-10-05 | Real-time global intelligence dashboard. AI-powered news aggregation,… |
-| 22 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 85,718 | Python | 2026-10-04 | 🕷️ An adaptive Web Scraping framework that handles everything from a… |
-| 23 | [stablyai/orca](https://github.com/stablyai/orca) | 85,136 | TypeScript | 2026-10-05 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
-| 24 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 84,764 | Python | 2026-09-25 | Open-source web crawler and scraper for LLMs and AI agents: any websi… |
-| 25 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,394 | Python | 2026-10-05 | An open-source long-horizon SuperAgent harness that researches, codes… |
-| 26 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,989 | TypeScript | 2026-10-05 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into … |
-| 27 | [netdata/netdata](https://github.com/netdata/netdata) | 80,795 | Go | 2026-10-05 | The fastest path to AI-powered full stack observability, even for lea… |
-| 28 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 78,832 | MDX | 2026-03-11 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engine… |
-| 29 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 78,008 | Python | 2026-09-28 | Bash is all you need -  A nano claude code–like 「agent harness」, buil… |
-| 30 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 77,585 | JavaScript | 2026-10-05 | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 277,350 | JavaScript | 2026-10-12 | The agent harness performance optimization system. Skills, instincts,… |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 252,864 | Python | 2026-10-12 | The agent that grows with you |
+| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 247,697 | TypeScript | 2026-10-09 | DeepSeek Harness: Everything is a Plugin. |
+| 4 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 207,041 | TypeScript | 2026-10-12 | Fair-code workflow automation platform with native AI capabilities. C… |
+| 5 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 190,584 | TypeScript | 2026-10-12 | Supercharge your AI agents with data from the web and beyond. Buildin… |
+| 6 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,525 | Python | 2026-10-12 | AutoGPT is the vision of accessible AI for everyone, to use and to bu… |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 161,244 | JavaScript | 2026-10-10 | Makes your AI agent think like the laziest senior dev in the room. Th… |
+| 8 | [langgenius/dify](https://github.com/langgenius/dify) | 158,190 | TypeScript | 2026-10-12 | Build Agentic workflows, RAG pipelines, with rich AI model and tool s… |
+| 9 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,523 | Python | 2026-10-12 | Langflow is a powerful tool for building and deploying AI-powered age… |
+| 10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 154,349 | Python | 2026-10-11 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| 11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,650 | Python | 2026-10-12 | The agent engineering platform. |
+| 12 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 142,952 | Rust | 2026-10-12 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
+| 13 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 141,314 | Python | 2026-09-30 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| 14 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 125,612 | Python | 2026-10-11 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
+| 15 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 117,674 | Python | 2026-10-09 | Agents that use the browser. |
+| 16 | [morluto/rea](https://github.com/morluto/rea) | 115,315 | TypeScript | 2026-10-12 | Reverse engineer anything with agents, from app behavior down to nati… |
+| 17 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107,293 | TypeScript | 2026-10-12 | An open-source AI agent that brings the power of Gemini directly into… |
+| 18 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 99,802 | TypeScript | 2026-10-12 | Persistent Context Across Sessions for Every Agent –  Captures everyt… |
+| 19 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 96,160 | Python | 2026-10-08 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
+| 20 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 96,147 |  | 2026-10-09 | A collection of MCP servers. |
+| 21 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 92,024 | Go | 2026-10-12 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG)… |
+| 22 | [stablyai/orca](https://github.com/stablyai/orca) | 90,002 | TypeScript | 2026-10-12 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
+| 23 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 88,266 | TypeScript | 2026-10-12 | Real-time global intelligence dashboard. AI-powered news aggregation,… |
+| 24 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 86,888 | Python | 2026-10-11 | 🕷️ An adaptive Web Scraping framework that handles everything from a… |
+| 25 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 85,300 | Python | 2026-10-11 | Open-source web crawler and scraper for LLMs and AI agents: any websi… |
+| 26 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,713 | Python | 2026-10-12 | An open-source long-horizon SuperAgent harness that researches, codes… |
+| 27 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 83,151 | TypeScript | 2026-10-12 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into … |
+| 28 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 82,173 | JavaScript | 2026-10-12 | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
+| 29 | [netdata/netdata](https://github.com/netdata/netdata) | 80,890 | Go | 2026-10-12 | The fastest path to AI-powered full stack observability, even for lea… |
+| 30 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 79,055 | MDX | 2026-03-11 | 🐙 Guides, papers, lessons, notebooks and resources for prompt engine… |
 
 ---
 
@@ -51,127 +51,126 @@
 
 | # | リポジトリ | ★ | 作成日 | 言語 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,605 | 2026-09-29 | Python | Open-source dots for the web: an AI agent with its own browser, one t… |
-| 2 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 1,276 | 2026-09-28 | JavaScript | Show it a video you love. Get a new video in the same style. An AI cr… |
+| — | 該当なし | | | | |
 
 ### 直近1ヶ月に登場した新顔ランキング
 
 | # | リポジトリ | ★ | 作成日 | 言語 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,605 | 2026-09-29 | Python | Open-source dots for the web: an AI agent with its own browser, one t… |
-| 2 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 2,237 | 2026-09-08 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill t… |
-| 3 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 1,276 | 2026-09-28 | JavaScript | Show it a video you love. Get a new video in the same style. An AI cr… |
-| 4 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 976 | 2026-09-15 | Python | An auto-evolution framework that optimizes anything — your 7×24 team … |
-| 5 | [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) | 593 | 2026-09-15 | Python | EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOnt… |
-| 6 | [atria-asi/Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview) | 573 | 2026-09-12 |  |  |
-| 7 | [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) | 448 | 2026-09-10 | Python | 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象… |
-| 8 | [Gen-Verse/ScienceBuddy](https://github.com/Gen-Verse/ScienceBuddy) | 303 | 2026-09-14 | Python | ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive… |
-| 9 | [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) | 302 | 2026-09-21 | Python | [Public preview] Externally scored agentic ML research benchmark: 60 … |
+| 1 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 2,750 | 2026-09-29 | Python | Playwright MCP server undetected by anti-bots and captchas: AI agent … |
+| 2 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 2,369 | 2026-09-28 | JavaScript | Show it a video you love. Get a new video in the same style. An AI cr… |
+| 3 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 1,299 | 2026-10-03 | Go | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 4 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 968 | 2026-09-15 | Python | An auto-evolution framework that optimizes anything — your 7×24 team … |
+| 5 | [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) | 777 | 2026-09-15 | Python | EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOnt… |
+| 6 | [atria-asi/Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview) | 590 | 2026-09-12 |  |  |
+| 7 | [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | 338 | 2026-10-01 | Python | BootLoops 1.0: certified computational tools and house engines for ex… |
+| 8 | [Gen-Verse/ScienceBuddy](https://github.com/Gen-Verse/ScienceBuddy) | 322 | 2026-09-14 | Python | ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive… |
+| 9 | [Simreal-AI/Simreal-MLBench](https://github.com/Simreal-AI/Simreal-MLBench) | 301 | 2026-09-21 | Python | [Public preview] Externally scored agentic ML research benchmark: 60 … |
 
 ### 直近3ヶ月に登場した新顔ランキング
 
 | # | リポジトリ | ★ | 作成日 | 言語 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 243,503 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 19,281 | 2026-07-29 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole wo… |
-| 3 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17,509 | 2026-07-15 | Python | Rebuild the object in a reference image as a code-only, procedural, q… |
-| 4 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 8,629 | 2026-07-31 | TypeScript | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdow… |
-| 5 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 7,025 | 2026-08-28 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while … |
-| 6 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 6,858 | 2026-07-20 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
-| 7 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 6,776 | 2026-07-08 | Python | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| 8 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | 6,062 | 2026-07-23 | TypeScript | The open-source agent harness - the runtime layer that turns an LLM i… |
-| 9 | [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | 5,103 | 2026-08-22 | Python | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — na… |
-| 10 | [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 4,240 | 2026-08-22 | TypeScript | Cross-platform local MCP capabilities for ChatGPT with Chrome integra… |
-| 11 | [jub0t/concat](https://github.com/jub0t/concat) | 4,067 | 2026-08-25 | Rust | Beta: The truly free, and open-source cross-platform CapCut replaceme… |
-| 12 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,775 | 2026-08-14 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then fu… |
-| 13 | [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 3,308 | 2026-07-10 | TypeScript | A practical, open-source guide to mastering WorkBuddy through real-wo… |
-| 14 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 2,879 | 2026-08-09 | Python | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition … |
-| 15 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,605 | 2026-09-29 | Python | Open-source dots for the web: an AI agent with its own browser, one t… |
-| 16 | [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) | 2,376 | 2026-08-13 |  | A builder, not just a researcher. Agent skills that turn top-grossing… |
-| 17 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 2,237 | 2026-09-08 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill t… |
-| 18 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1,905 | 2026-07-10 | Python | Waku Waku! Waku Agent is a local-first AI agent harness you actually … |
-| 19 | [OpenSparX/MasterAgent](https://github.com/OpenSparX/MasterAgent) | 1,645 | 2026-08-10 | C++ | Build AI agents that run 100% on-device. Sub-100ms latency on Qualcom… |
-| 20 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 1,444 | 2026-07-24 | TypeScript | The open-source, multi-agent alternative to Claude Tag.  @ any agent,… |
-| 21 | [Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) | 1,297 | 2026-08-17 | JavaScript | Autoprompt is a coding-agent skill that cuts failures by 45% on agent… |
-| 22 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 1,276 | 2026-09-28 | JavaScript | Show it a video you love. Get a new video in the same style. An AI cr… |
-| 23 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1,274 | 2026-08-07 | Go | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
-| 24 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 1,264 | 2026-08-09 | TypeScript | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
-| 25 | [LodyAI/Lody](https://github.com/LodyAI/Lody) | 1,230 | 2026-08-07 | TypeScript | Share coding agents with your team on phone and desktop |
-| 26 | [cinderline/northcinder](https://github.com/cinderline/northcinder) | 1,213 | 2026-08-17 | JavaScript | Open-source MCP server for comparing products and asking the buyer be… |
-| 27 | [ZJU-REAL/HugAgentOS](https://github.com/ZJU-REAL/HugAgentOS) | 1,120 | 2026-07-19 | Python | HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustwort… |
-| 28 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1,105 | 2026-08-04 | Dart | The ultimate harness for coding agents and beyond. All your agents. A… |
-| 29 | [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) | 1,093 | 2026-08-08 | Go | A persistent, Git-versioned map of your whole codebase and database s… |
-| 30 | [kyky2347/ALTA](https://github.com/kyky2347/ALTA) | 1,039 | 2026-08-27 | Python | Autonomous LLM Trading Asterism — a research-only multi-agent trading… |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 247,697 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 2 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 21,292 | 2026-07-29 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole wo… |
+| 3 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17,962 | 2026-07-15 | Python | Rebuild the object in a reference image as a code-only, procedural, q… |
+| 4 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 9,350 | 2026-07-31 | TypeScript | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdow… |
+| 5 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 7,684 | 2026-07-20 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 6 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 7,277 | 2026-08-28 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while … |
+| 7 | [truefoundry/trueforge](https://github.com/truefoundry/trueforge) | 6,156 | 2026-07-23 | TypeScript | The open-source agent harness - the runtime layer that turns an LLM i… |
+| 8 | [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | 5,226 | 2026-08-22 | Python | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — na… |
+| 9 | [jub0t/concat](https://github.com/jub0t/concat) | 4,859 | 2026-08-25 | Rust | ⭐ Concat: The truly free, and open-source cross-platform CapCut repla… |
+| 10 | [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) | 4,651 | 2026-08-22 | TypeScript | Cross-platform local MCP capabilities for ChatGPT with Chrome integra… |
+| 11 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,761 | 2026-08-14 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then fu… |
+| 12 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 2,964 | 2026-08-09 | Python | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition … |
+| 13 | [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 2,750 | 2026-09-29 | Python | Playwright MCP server undetected by anti-bots and captchas: AI agent … |
+| 14 | [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) | 2,547 | 2026-08-13 |  | A builder, not just a researcher. Agent skills that turn top-grossing… |
+| 15 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 2,423 | 2026-09-08 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill t… |
+| 16 | [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) | 2,369 | 2026-09-28 | JavaScript | Show it a video you love. Get a new video in the same style. An AI cr… |
+| 17 | [aoci-spec/aoci-code](https://github.com/aoci-spec/aoci-code) | 1,489 | 2026-08-08 | Go | A persistent, Git-versioned map of your whole codebase and database s… |
+| 18 | [agentconnect-md/agentconnect](https://github.com/agentconnect-md/agentconnect) | 1,461 | 2026-07-24 | TypeScript | The open-source, multi-agent alternative to Claude Tag.  @ any agent,… |
+| 19 | [jundizhou/easy-stock](https://github.com/jundizhou/easy-stock) | 1,431 | 2026-08-07 | Go | A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock |
+| 20 | [LodyAI/Lody](https://github.com/LodyAI/Lody) | 1,383 | 2026-08-07 | TypeScript | Share coding agents with your team on phone and desktop |
+| 21 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 1,299 | 2026-10-03 | Go | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 22 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 1,284 | 2026-08-09 | TypeScript | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
+| 23 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1,227 | 2026-08-04 | TypeScript | The ultimate harness for coding agents and beyond. All your agents. A… |
+| 24 | [OpenSparX/MasterAgent](https://github.com/OpenSparX/MasterAgent) | 1,218 | 2026-08-10 | C++ | Build AI agents that run 100% on-device. Sub-100ms latency on Qualcom… |
+| 25 | [cinderline/northcinder](https://github.com/cinderline/northcinder) | 1,206 | 2026-08-17 | JavaScript | Open-source MCP server for comparing products and asking the buyer be… |
+| 26 | [Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) | 1,199 | 2026-08-17 | JavaScript | Autoprompt is a coding-agent skill that cuts failures by 45% on agent… |
+| 27 | [ZJU-REAL/HugAgentOS](https://github.com/ZJU-REAL/HugAgentOS) | 1,126 | 2026-07-19 | Python | HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustwort… |
+| 28 | [kyky2347/ALTA](https://github.com/kyky2347/ALTA) | 1,096 | 2026-08-27 | Python | Autonomous LLM Trading Asterism — a research-only multi-agent trading… |
+| 29 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 1,032 | 2026-07-30 | Python | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-… |
+| 30 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 968 | 2026-09-15 | Python | An auto-evolution framework that optimizes anything — your 7×24 team … |
 
 ### 直近6ヶ月に登場した新顔ランキング
 
 | # | リポジトリ | ★ | 作成日 | 言語 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 243,503 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 155,087 | 2026-06-12 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. Th… |
-| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 77,585 | 2026-04-15 | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
-| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,739 | 2026-04-21 | Go | A reliable coding agent for complex software engineering tasks. |
-| 5 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 33,935 | 2026-04-25 | JavaScript | Prompt as Code ¦ GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Sk… |
-| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 33,741 | 2026-05-01 | Python | Turn any technical book PDF into a Claude Code skill — ready to study… |
-| 7 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,234 | 2026-04-23 | HTML | AI-agent Skill for generating polished HTML slide decks: editorial ma… |
-| 8 | [t8y2/dbx](https://github.com/t8y2/dbx) | 24,611 | 2026-04-29 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, … |
-| 9 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 19,281 | 2026-07-29 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole wo… |
-| 10 | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | 18,291 | 2026-04-17 | Python | Browser Harness ¦ Self-healing harness that enables LLMs to complete … |
-| 11 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17,509 | 2026-07-15 | Python | Rebuild the object in a reference image as a code-only, procedural, q… |
-| 12 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16,955 | 2026-04-22 | Python | Give your agent CAD superpowers. |
-| 13 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 16,829 | 2026-04-16 | JavaScript | The fastest browser for AI agents to run browser automation, built fo… |
-| 14 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 12,805 | 2026-04-10 | Go | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| 15 | [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 12,343 | 2026-05-27 |  | 中文小黑怪诞正文配图生成 Skill ¦ 16:9 白底手绘 ¦ 少量红橙蓝批注 ¦ Codex Skill |
-| 16 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11,420 | 2026-06-09 | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI… |
-| 17 | [EKKOLearnAI/ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) | 11,292 | 2026-04-11 | TypeScript | Ekko Studio is a local-first AI workspace for multi-agent chat, codin… |
-| 18 | [spinabot/brigade](https://github.com/spinabot/brigade) | 11,259 | 2026-06-19 | TypeScript | Brigade — Your personal intelligence, built enterprise-grade |
-| 19 | [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) | 10,553 | 2026-05-11 | Python | A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·… |
-| 20 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10,536 | 2026-06-11 | Python | Omnigent is an open-source AI agent framework and meta-harness: orche… |
-| 21 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 9,291 | 2026-04-21 | TypeScript | Lightweight (7MB) Terminal-first AI-native dev workspace |
-| 22 | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,142 | 2026-06-10 | JavaScript | An AI-agent skill that generates browser-editable presentations from … |
-| 23 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 8,629 | 2026-07-31 | TypeScript | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdow… |
-| 24 | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 8,423 | 2026-05-31 | TypeScript | an open-source alternative to the dots, bots and muses of the world, … |
-| 25 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 7,791 | 2026-06-09 | Python | Autoharness — a self-learning skill layer for Claude Code — distills … |
-| 26 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 7,391 | 2026-05-04 | Python | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: fro… |
-| 27 | [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 7,348 | 2026-05-27 | HTML | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeCha… |
-| 28 | [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 7,258 | 2026-04-22 | Python | Claude Code / Codex / OpenCode agent skills for writing Chinese web n… |
-| 29 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 7,025 | 2026-08-28 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while … |
-| 30 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 6,858 | 2026-07-20 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 247,697 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 161,244 | 2026-06-12 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. Th… |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 82,173 | 2026-04-15 | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
+| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,765 | 2026-04-21 | Go | A reliable coding agent for complex software engineering tasks. |
+| 5 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 34,584 | 2026-05-01 | Python | Turn any technical book PDF into a Claude Code skill — ready to study… |
+| 6 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 34,310 | 2026-04-25 | JavaScript | Prompt as Code ¦ GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Sk… |
+| 7 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,631 | 2026-04-23 | HTML | AI-agent Skill for generating polished HTML slide decks: editorial ma… |
+| 8 | [t8y2/dbx](https://github.com/t8y2/dbx) | 25,873 | 2026-04-29 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, … |
+| 9 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 21,292 | 2026-07-29 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole wo… |
+| 10 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 19,369 | 2026-04-22 | Python | Give your agent CAD superpowers. |
+| 11 | [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | 18,395 | 2026-04-17 | Python | Browser Harness ¦ Self-healing harness that enables LLMs to complete … |
+| 12 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17,962 | 2026-07-15 | Python | Rebuild the object in a reference image as a code-only, procedural, q… |
+| 13 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 17,148 | 2026-04-16 | JavaScript | The fastest browser for AI agents to run browser automation, built fo… |
+| 14 | [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 12,511 | 2026-05-27 |  | 中文小黑怪诞正文配图生成 Skill ¦ 16:9 白底手绘 ¦ 少量红橙蓝批注 ¦ Codex Skill |
+| 15 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 11,504 | 2026-06-09 | TypeScript | Practical patterns, starters & CLI tools for loop engineering with AI… |
+| 16 | [spinabot/brigade](https://github.com/spinabot/brigade) | 11,323 | 2026-06-19 | TypeScript | Brigade — Your personal intelligence, built enterprise-grade |
+| 17 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 11,003 | 2026-06-09 | Python | Autoharness — a self-learning skill layer for Claude Code — distills … |
+| 18 | [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) | 10,804 | 2026-05-11 | Python | A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·… |
+| 19 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10,755 | 2026-06-11 | Python | Omnigent is an open-source AI agent framework and meta-harness: orche… |
+| 20 | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,395 | 2026-06-10 | JavaScript | An AI-agent skill that generates browser-editable presentations from … |
+| 21 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 9,350 | 2026-07-31 | TypeScript | Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdow… |
+| 22 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 9,311 | 2026-04-21 | TypeScript | Lightweight (7MB) Terminal-first AI-native dev workspace |
+| 23 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 8,735 | 2026-07-08 | Python | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| 24 | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 8,676 | 2026-05-31 | TypeScript | an open-source alternative to the dots, bots and muses of the world, … |
+| 25 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 7,684 | 2026-07-20 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 26 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 7,531 | 2026-05-04 | Python | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: fro… |
+| 27 | [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 7,466 | 2026-05-27 | HTML | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeCha… |
+| 28 | [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 7,448 | 2026-04-22 | Python | Claude Code / Codex / OpenCode agent skills for writing Chinese web n… |
+| 29 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 7,277 | 2026-08-28 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while … |
+| 30 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 6,486 | 2026-07-02 | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-… |
 
 ### 直近1年に登場した新顔ランキング
 
 | # | リポジトリ | ★ | 作成日 | 言語 | 説明 |
 |---:|---|---:|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 273,068 | 2026-01-18 | JavaScript | The agent harness performance optimization system. Skills, instincts,… |
-| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 243,503 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 155,087 | 2026-06-12 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. Th… |
-| 4 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 123,835 | 2026-04-03 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 91,081 | 2026-02-24 | Python | Give your AI agent eyes to see the entire internet. Read & search Twi… |
-| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,791 | 2026-01-08 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation,… |
-| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 85,136 | 2026-03-17 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any … |
-| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 77,585 | 2026-04-15 | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
-| 9 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76,512 | 2025-10-17 | Python | A curated list of awesome Claude Skills, resources, and tools for cus… |
-| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 74,431 | 2026-01-07 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach … |
-| 11 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73,491 | 2026-04-04 | JavaScript | Open-source AI job search agent and job finder: scan job boards, scor… |
-| 12 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 73,048 | 2026-02-13 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
-| 13 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69,803 | 2025-12-03 | TypeScript | OmO: Just type "mass ulw" keyword with your prompt. Now you are the m… |
-| 14 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 67,089 | 2025-10-31 | HTML | from vibe coding to agentic engineering - practice makes claude perfe… |
-| 15 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 65,902 | 2026-01-10 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-… |
-| 16 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 64,042 | 2026-03-18 | Python | Learn it. Build it. Ship it for others. |
-| 17 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63,337 | 2026-03-29 | Python | World's first open-source, agentic video production system. 12 produc… |
-| 18 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 59,413 | 2026-04-05 | Python | The best-benchmarked open-source AI memory system. And it's free. |
-| 19 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57,634 | 2025-12-10 | Python | AI turns documents or topics into real, native PowerPoint decks—with … |
-| 20 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 56,853 | 2026-03-10 | TypeScript | Write HTML. Render video. Built for agents. |
-| 21 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 49,156 | 2026-01-02 |  | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and o… |
-| 22 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48,789 | 2026-02-01 | Python | Ultra-lightweight, open-source, self-hosted personal AI agent framewo… |
-| 23 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 47,256 | 2026-01-14 | Python | AAS Core is the local, agent-first control plane for complete catalog… |
-| 24 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 45,804 | 2026-02-24 | C | High-performance code intelligence MCP server. Indexes codebases into… |
-| 25 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 45,571 | 2025-10-30 | Python | Hindsight: Agent Memory That Learns |
-| 26 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 44,983 | 2026-03-18 | Python | The job search that runs on your machine. AI job application framewor… |
-| 27 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 42,320 | 2026-03-27 | Rust | the runtime your coding agents live on |
-| 28 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | 41,046 | 2026-01-19 | Rust | Open-source coding agent for your terminal, built in Rust and on a jo… |
-| 29 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 40,797 | 2025-12-28 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| 30 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 40,644 | 2026-02-18 | Rust | OpenHuman is the fastest, cheapest, most efficient open-source agent … |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 277,350 | 2026-01-18 | JavaScript | The agent harness performance optimization system. Skills, instincts,… |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 247,697 | 2026-08-13 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 161,244 | 2026-06-12 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. Th… |
+| 4 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 125,612 | 2026-04-03 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
+| 5 | [morluto/rea](https://github.com/morluto/rea) | 115,315 | 2026-04-14 | TypeScript | Reverse engineer anything with agents, from app behavior down to nati… |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 96,160 | 2026-02-24 | Python | Give your AI agent eyes to see the entire internet. Read & search Twi… |
+| 7 | [stablyai/orca](https://github.com/stablyai/orca) | 90,002 | 2026-03-17 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any … |
+| 8 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 88,266 | 2026-01-08 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation,… |
+| 9 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 82,173 | 2026-04-15 | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
+| 10 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76,895 | 2025-10-17 | Python | A curated list of awesome Claude Skills, resources, and tools for cus… |
+| 11 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 75,389 | 2026-02-13 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
+| 12 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 75,086 | 2026-01-07 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach … |
+| 13 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 74,082 | 2026-04-04 | JavaScript | Open-source AI job search agent and job finder: scan job boards, scor… |
+| 14 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69,969 | 2025-12-03 | TypeScript | OmO: Just type "mass ulw" keyword with your prompt. Now you are the m… |
+| 15 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 67,625 | 2026-03-18 | Python | Learn AI Engineering! Learn it. Build it. Ship it for others. |
+| 16 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 67,416 | 2025-10-31 | HTML | from vibe coding to agentic engineering - practice makes claude perfe… |
+| 17 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 67,102 | 2026-03-29 | Python | World's first open-source, agentic video production system. 12 produc… |
+| 18 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 66,197 | 2026-01-10 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-… |
+| 19 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 61,133 | 2026-03-10 | TypeScript | Write HTML. Render video. Built for agents. |
+| 20 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 60,542 | 2025-12-10 | Python | AI turns documents or topics into real, native PowerPoint decks—with … |
+| 21 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 59,518 | 2026-04-05 | Python | The best-benchmarked open-source AI memory system. And it's free. |
+| 22 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 54,256 | 2026-01-15 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO… |
+| 23 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 49,415 | 2026-01-02 |  | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and o… |
+| 24 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48,962 | 2026-02-01 | Python | Ultra-lightweight, open-source, self-hosted personal AI agent framewo… |
+| 25 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 48,517 | 2025-10-30 | Python | Hindsight: Agent Memory That Learns |
+| 26 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 47,477 | 2026-01-14 | Python | AAS Core is the local, agent-first control plane for complete catalog… |
+| 27 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 46,387 | 2026-02-24 | C | High-performance code intelligence MCP server. Indexes codebases into… |
+| 28 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 46,197 | 2026-03-18 | Python | The job search that runs on your machine. AI job application framewor… |
+| 29 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 43,451 | 2026-03-27 | Rust | the runtime your coding agents live on |
+| 30 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 41,848 | 2026-02-18 | Rust | The fastest, cheapest, most efficient open-source agent harness. Run … |
 
 ---
 
@@ -181,92 +180,92 @@
 
 ### 直近1週間の star 増加ランキング
 
-比較対象: `2026-09-28` の記録（実際の間隔 7 日）
+比較対象: `2026-10-05` の記録（実際の間隔 7 日）
 
 | # | リポジトリ | 増加 | 増加率 | 現在の★ | 説明 |
 |---:|---|---:|---:|---:|---|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | **+8,088** | 5.5% | 155,087 | Makes your AI agent think like the laziest senior dev in the room. Th… |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | **+7,637** | 20.1% | 45,571 | Hindsight: Agent Memory That Learns |
-| 3 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | **+5,546** | 2.3% | 243,503 | DeepSeek Harness: Everything is a Plugin. |
-| 4 | [stablyai/orca](https://github.com/stablyai/orca) | **+5,292** | 6.6% | 85,136 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | **+5,248** | 6.1% | 91,081 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
-| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | **+4,565** | 1.7% | 273,068 | The agent harness performance optimization system. Skills, instincts,… |
-| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | **+4,483** | 7.5% | 64,042 | Learn it. Build it. Ship it for others. |
-| 8 | [spinabot/brigade](https://github.com/spinabot/brigade) | **+4,158** | 58.6% | 11,259 | Brigade — Your personal intelligence, built enterprise-grade |
-| 9 | [t8y2/dbx](https://github.com/t8y2/dbx) | **+3,378** | 15.9% | 24,611 | 25 MB lightweight cross-platform database client for 100+ databases, … |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | **+3,154** | 5.9% | 56,853 | Write HTML. Render video. Built for agents. |
-| 11 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | **+3,050** | 1.6% | 188,670 | Supercharge your AI agents with data from the web and beyond. Buildin… |
-| 12 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | **+2,763** | 7.7% | 38,648 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 13 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | **+2,763** | 55.0% | 7,791 | Autoharness — a self-learning skill layer for Claude Code — distills … |
-| 14 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | **+2,631** | 16.0% | 19,121 | Harness engineering beginner tutorial, from 0 to 1 |
-| 15 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | **+2,435** | 14.5% | 19,281 | Clone any viral video with AI agents. Not just a script, the whole wo… |
-| 16 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | **+2,312** | 1.7% | 140,064 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
-| 17 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | **+2,220** | 3.1% | 73,048 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
-| 18 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | **+1,963** | 12.3% | 17,903 | High-performance AI pipeline engine with a C++ core and 50+ Python-ex… |
-| 19 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | **+1,913** | 1.6% | 123,835 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
-| 20 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | **+1,742** | 2.8% | 63,337 | World's first open-source, agentic video production system. 12 produc… |
-| 21 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | **+1,719** | 0.7% | 251,268 | The agent that grows with you |
-| 22 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | **+1,610** | 1.9% | 85,718 | 🕷️ An adaptive Web Scraping framework that handles everything from a… |
-| 23 | [oblien/openship](https://github.com/oblien/openship) | **+1,514** | 11.7% | 14,501 | Self-hosted deployment platform |
-| 24 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | **+1,446** | 27.1% | 6,776 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
-| 25 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | **+1,412** | 1.5% | 96,221 | Persistent Context Across Sessions for Every Agent –  Captures everyt… |
-| 26 | [trycua/cua](https://github.com/trycua/cua) | **+1,380** | 5.2% | 28,067 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and… |
-| 27 | [usestrix/strix](https://github.com/usestrix/strix) | **+1,278** | 2.0% | 66,531 | Open-source AI penetration testing tool to find and fix your app’s vu… |
-| 28 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | **+1,276** | 5.3% | 25,422 | Context window optimization for AI coding agents. Sandboxes tool outp… |
-| 29 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | **+1,263** | 3.1% | 42,320 | the runtime your coding agents live on |
-| 30 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | **+1,207** | 21.4% | 6,858 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | **+112,583** | 4120.9% | 115,315 | Reverse engineer anything with agents, from app behavior down to nati… |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | **+6,157** | 4.0% | 161,244 | Makes your AI agent think like the laziest senior dev in the room. Th… |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | **+5,079** | 5.6% | 96,160 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | **+4,866** | 5.7% | 90,002 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | **+4,588** | 5.9% | 82,173 | Turn any idea, plan, or codebase into a beautiful interactive diagram… |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | **+4,282** | 1.6% | 277,350 | The agent harness performance optimization system. Skills, instincts,… |
+| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | **+4,280** | 7.5% | 61,133 | Write HTML. Render video. Built for agents. |
+| 8 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | **+4,194** | 1.7% | 247,697 | DeepSeek Harness: Everything is a Plugin. |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | **+3,765** | 5.9% | 67,102 | World's first open-source, agentic video production system. 12 produc… |
+| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | **+3,583** | 5.6% | 67,625 | Learn AI Engineering! Learn it. Build it. Ship it for others. |
+| 11 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | **+3,581** | 3.7% | 99,802 | Persistent Context Across Sessions for Every Agent –  Captures everyt… |
+| 12 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | **+3,212** | 41.2% | 11,003 | Autoharness — a self-learning skill layer for Claude Code — distills … |
+| 13 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | **+2,946** | 6.5% | 48,517 | Hindsight: Agent Memory That Learns |
+| 14 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | **+2,908** | 5.0% | 60,542 | AI turns documents or topics into real, native PowerPoint decks—with … |
+| 15 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | **+2,888** | 2.1% | 142,952 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
+| 16 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | **+2,414** | 14.2% | 19,369 | Give your agent CAD superpowers. |
+| 17 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | **+2,341** | 3.2% | 75,389 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
+| 18 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | **+2,011** | 10.4% | 21,292 | Clone any viral video with AI agents. Not just a script, the whole wo… |
+| 19 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | **+2,011** | 40.1% | 7,028 | Build your own network of agents from Claude Code, Codex and Pi: pers… |
+| 20 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | **+1,959** | 28.9% | 8,735 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| 21 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | **+1,914** | 1.0% | 190,584 | Supercharge your AI agents with data from the web and beyond. Buildin… |
+| 22 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | **+1,777** | 1.4% | 125,612 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
+| 23 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | **+1,596** | 0.6% | 252,864 | The agent that grows with you |
+| 24 | [usestrix/strix](https://github.com/usestrix/strix) | **+1,467** | 2.2% | 67,998 | Open-source AI penetration testing tool to find and fix your app’s vu… |
+| 25 | [trycua/cua](https://github.com/trycua/cua) | **+1,345** | 4.8% | 29,412 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and… |
+| 26 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | **+1,303** | 5.1% | 26,725 | Context window optimization for AI coding agents. Sandboxes tool outp… |
+| 27 | [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) | **+1,282** | 30.6% | 5,467 | Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering… |
+| 28 | [t8y2/dbx](https://github.com/t8y2/dbx) | **+1,262** | 5.1% | 25,873 | 25 MB lightweight cross-platform database client for 100+ databases, … |
+| 29 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | **+1,214** | 2.7% | 46,197 | The job search that runs on your machine. AI job application framewor… |
+| 30 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | **+1,204** | 3.0% | 41,848 | The fastest, cheapest, most efficient open-source agent harness. Run … |
 
 ### 直近1ヶ月の star 増加ランキング
 
-比較対象: `2026-09-07` の記録（実際の間隔 28 日）
+比較対象: `2026-09-14` の記録（実際の間隔 28 日）
 
 | # | リポジトリ | 増加 | 増加率 | 現在の★ | 説明 |
 |---:|---|---:|---:|---:|---|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | **+29,276** | 13.7% | 243,503 | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | **+25,425** | 19.6% | 155,087 | Makes your AI agent think like the laziest senior dev in the room. Th… |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | **+22,799** | 100.1% | 45,571 | Hindsight: Agent Memory That Learns |
-| 4 | [stablyai/orca](https://github.com/stablyai/orca) | **+22,229** | 35.3% | 85,136 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | **+21,454** | 8.5% | 273,068 | The agent harness performance optimization system. Skills, instincts,… |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | **+12,613** | 16.1% | 91,081 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
-| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | **+12,382** | 27.8% | 56,853 | Write HTML. Render video. Built for agents. |
-| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | **+11,410** | 21.7% | 64,042 | Learn it. Build it. Ship it for others. |
-| 9 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | **+11,345** | 6.4% | 188,670 | Supercharge your AI agents with data from the web and beyond. Buildin… |
-| 10 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | **+10,957** | 17.6% | 73,048 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
-| 11 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | **+8,656** | 6.6% | 140,064 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
-| 12 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | **+8,633** | 3.6% | 251,268 | The agent that grows with you |
-| 13 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | **+8,438** | 7.3% | 123,835 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
-| 14 | [spinabot/brigade](https://github.com/spinabot/brigade) | **+7,840** | 229.3% | 11,259 | Brigade — Your personal intelligence, built enterprise-grade |
-| 15 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | **+7,403** | 16.5% | 52,389 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
-| 16 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | **+6,905** | 8.8% | 85,718 | 🕷️ An adaptive Web Scraping framework that handles everything from a… |
-| 17 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | **+6,903** | 12.2% | 63,337 | World's first open-source, agentic video production system. 12 produc… |
-| 18 | [t8y2/dbx](https://github.com/t8y2/dbx) | **+6,461** | 35.6% | 24,611 | 25 MB lightweight cross-platform database client for 100+ databases, … |
-| 19 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | **+6,453** | 18.0% | 42,320 | the runtime your coding agents live on |
-| 20 | [trycua/cua](https://github.com/trycua/cua) | **+5,790** | 26.0% | 28,067 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and… |
-| 21 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | **+5,584** | 19.7% | 33,935 | Prompt as Code ¦ GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Sk… |
-| 22 | [usestrix/strix](https://github.com/usestrix/strix) | **+5,556** | 9.1% | 66,531 | Open-source AI penetration testing tool to find and fix your app’s vu… |
-| 23 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | **+5,436** | 230.8% | 7,791 | Autoharness — a self-learning skill layer for Claude Code — distills … |
-| 24 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | **+5,268** | 7.6% | 74,431 | Compress tool outputs, logs, files, and RAG chunks before they reach … |
-| 25 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | **+5,107** | 9.7% | 57,634 | AI turns documents or topics into real, native PowerPoint decks—with … |
-| 26 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | **+4,922** | 24.0% | 25,422 | Context window optimization for AI coding agents. Sandboxes tool outp… |
-| 27 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | **+4,900** | 17.0% | 33,741 | Turn any technical book PDF into a Claude Code skill — ready to study… |
-| 28 | [every-app/open-seo](https://github.com/every-app/open-seo) | **+4,823** | 27.5% | 22,364 | Open source alternative to Semrush and Ahrefs |
-| 29 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | **+4,626** | 7.2% | 68,918 | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5… |
-| 30 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | **+4,458** | 173.7% | 7,025 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while … |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | **+24,950** | 105.9% | 48,517 | Hindsight: Agent Memory That Learns |
+| 2 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | **+24,828** | 11.1% | 247,697 | DeepSeek Harness: Everything is a Plugin. |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | **+23,739** | 17.3% | 161,244 | Makes your AI agent think like the laziest senior dev in the room. Th… |
+| 4 | [stablyai/orca](https://github.com/stablyai/orca) | **+22,038** | 32.4% | 90,002 | Orca is the ADE for working with a fleet of parallel agents. Run any … |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | **+19,508** | 7.6% | 277,350 | The agent harness performance optimization system. Skills, instincts,… |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | **+15,619** | 19.4% | 96,160 | Give your AI agent eyes to see the entire internet. Read & search Twi… |
+| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | **+13,141** | 24.1% | 67,625 | Learn AI Engineering! Learn it. Build it. Ship it for others. |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | **+11,446** | 23.0% | 61,133 | Write HTML. Render video. Built for agents. |
+| 9 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | **+10,527** | 5.8% | 190,584 | Supercharge your AI agents with data from the web and beyond. Buildin… |
+| 10 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | **+10,253** | 7.7% | 142,952 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,… |
+| 11 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | **+9,589** | 14.6% | 75,389 | Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (… |
+| 12 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | **+9,121** | 7.8% | 125,612 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, int… |
+| 13 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | **+8,483** | 14.5% | 67,102 | World's first open-source, agentic video production system. 12 produc… |
+| 14 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | **+7,647** | 3.1% | 252,864 | The agent that grows with you |
+| 15 | [spinabot/brigade](https://github.com/spinabot/brigade) | **+7,615** | 205.4% | 11,323 | Brigade — Your personal intelligence, built enterprise-grade |
+| 16 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | **+7,148** | 15.4% | 53,582 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| 17 | [trycua/cua](https://github.com/trycua/cua) | **+6,805** | 30.1% | 29,412 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and… |
+| 18 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | **+6,563** | 147.8% | 11,003 | Autoharness — a self-learning skill layer for Claude Code — distills … |
+| 19 | [t8y2/dbx](https://github.com/t8y2/dbx) | **+6,502** | 33.6% | 25,873 | 25 MB lightweight cross-platform database client for 100+ databases, … |
+| 20 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | **+6,399** | 11.8% | 60,542 | AI turns documents or topics into real, native PowerPoint decks—with … |
+| 21 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | **+6,113** | 7.6% | 86,888 | 🕷️ An adaptive Web Scraping framework that handles everything from a… |
+| 22 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | **+5,989** | 6.4% | 99,802 | Persistent Context Across Sessions for Every Agent –  Captures everyt… |
+| 23 | [usestrix/strix](https://github.com/usestrix/strix) | **+5,713** | 9.2% | 67,998 | Open-source AI penetration testing tool to find and fix your app’s vu… |
+| 24 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | **+5,180** | 13.5% | 43,451 | the runtime your coding agents live on |
+| 25 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | **+4,538** | 29.9% | 19,718 | Harness engineering beginner tutorial, from 0 to 1 |
+| 26 | [every-app/open-seo](https://github.com/every-app/open-seo) | **+4,510** | 24.2% | 23,137 | Open source alternative to Semrush and Ahrefs |
+| 27 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | **+4,097** | 13.2% | 35,105 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| 28 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | **+4,079** | 13.4% | 34,584 | Turn any technical book PDF into a Claude Code skill — ready to study… |
+| 29 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | **+4,045** | 17.8% | 26,725 | Context window optimization for AI coding agents. Sandboxes tool outp… |
+| 30 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | **+3,787** | 8.9% | 46,197 | The job search that runs on your machine. AI job application framewor… |
 
 ### 直近3ヶ月の star 増加ランキング
 
-> ⏳ **データ蓄積中** — このランキングにはあと **約 15 日** 分の記録が必要です。
-> （現在の蓄積: 57 日分 / 必要: 約 72 日分）
+> ⏳ **データ蓄積中** — このランキングにはあと **約 8 日** 分の記録が必要です。
+> （現在の蓄積: 64 日分 / 必要: 約 72 日分）
 
 ### 直近6ヶ月の star 増加ランキング
 
-> ⏳ **データ蓄積中** — このランキングにはあと **約 87 日** 分の記録が必要です。
-> （現在の蓄積: 57 日分 / 必要: 約 144 日分）
+> ⏳ **データ蓄積中** — このランキングにはあと **約 80 日** 分の記録が必要です。
+> （現在の蓄積: 64 日分 / 必要: 約 144 日分）
 
 ### 直近1年の star 増加ランキング
 
-> ⏳ **データ蓄積中** — このランキングにはあと **約 235 日** 分の記録が必要です。
-> （現在の蓄積: 57 日分 / 必要: 約 292 日分）
+> ⏳ **データ蓄積中** — このランキングにはあと **約 228 日** 分の記録が必要です。
+> （現在の蓄積: 64 日分 / 必要: 約 292 日分）
 
 ---
 
@@ -274,113 +273,107 @@
 
 ### Hacker News
 
-**🆕 新着 22 件**
+**🆕 新着 17 件**
 
 | # | タイトル | スコア | 日付 |
 |---:|---|---:|---|
-| 1 | [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | 1,066pt | 2026-09-29 |
-| 2 | [You said no MCP](https://earendil.com/posts/you-said-no-mcp/) | 680pt | 2026-09-30 |
-| 3 | [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) | 464pt | 2026-10-03 |
-| 4 | [Aleph Alpha Kolibri: How the sovereign German LLM works](https://tej.as/blog/aleph-alpha-kolibri) | 417pt | 2026-10-03 |
-| 5 | [LeCun has "zero concerns" about AI wiping out humanity, recent "r…](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) | 389pt | 2026-10-03 |
-| 6 | [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) | 359pt | 2026-10-02 |
-| 7 | [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) | 336pt | 2026-10-02 |
-| 8 | [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | 283pt | 2026-09-28 |
-| 9 | [OpenAI safety leader quits, warning AI company's culture is 'brok…](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) | 267pt | 2026-10-03 |
-| 10 | [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) | 232pt | 2026-10-03 |
-| 11 | [Nvidia wants to put a watchdog chip next to every AI agent](https://www.cnbc.com/2026/09/28/nvidia-releases.html) | 230pt | 2026-09-28 |
-| 12 | [FTC is investigating OpenAI, Anthropic and other AI companies ove…](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html) | 210pt | 2026-10-01 |
-| 13 | [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5) | 207pt | 2026-09-28 |
-| 14 | [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design) | 189pt | 2026-10-01 |
-| 15 | [Figma restricts MCP access to whitelisted clients, excluding Pi](https://twitter.com/GayaniFigma/status/2105295629941350454) | 187pt | 2026-10-01 |
-
-**📈 前回から伸びたもの 3 件**
-
-| # | タイトル | 現在 | 増加 |
-|---:|---|---:|---:|
-| 1 | [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | 631pt | **+21** |
-| 2 | [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat t…](https://www.youtube.com/watch?v=-Nvne3LzBls) | 197pt | **+17** |
-| 3 | ["As a Language Model": Chat Template Switches LLM Self-Referentia…](https://arxiv.org/abs/2609.25021) | 103pt | **+2** |
+| 1 | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | 1,353pt | 2026-10-06 |
+| 2 | [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | 1,046pt | 2026-10-07 |
+| 3 | [Anthropic reported diary entry to police, woman faces felony char…](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) | 836pt | 2026-10-05 |
+| 4 | [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | 756pt | 2026-10-07 |
+| 5 | [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) | 432pt | 2026-10-08 |
+| 6 | [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090) | 379pt | 2026-10-08 |
+| 7 | [Meta and Microsoft take steps to reduce employee usage of Claude …](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) | 376pt | 2026-10-07 |
+| 8 | [OpenAI fires three safety researchers for "mishandling research i…](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/) | 365pt | 2026-10-09 |
+| 9 | [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 356pt | 2026-10-11 |
+| 10 | [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md) | 342pt | 2026-10-08 |
+| 11 | [Talorys – A self-hosted personal AI agent on Cloudflare's free ti…](https://github.com/rociiu/talorys) | 323pt | 2026-10-10 |
+| 12 | [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) | 306pt | 2026-10-05 |
+| 13 | [I think I found a planet nobody knew existed. I used Claude Code …](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9) | 299pt | 2026-10-08 |
+| 14 | [Claude Code’s suggested message feature: I think the real custome…](https://www.zohaib.cc/blog/smartest-claude-code-feature) | 269pt | 2026-10-06 |
+| 15 | [Anthropic AI model submits false tip on unsolved Philly murder, p…](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/) | 212pt | 2026-10-09 |
 
 **総合トップ 15 件**（前回も掲載されたものには 🔁 が付きます）
 
 | # | タイトル | スコア | 状態 |
 |---:|---|---:|---|
-| 1 | [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | 1,066pt | 🆕 新着 |
-| 2 | [You said no MCP](https://earendil.com/posts/you-said-no-mcp/) | 680pt | 🆕 新着 |
-| 3 | [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | 631pt | 🔁 既出 |
-| 4 | [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) | 464pt | 🆕 新着 |
-| 5 | [Aleph Alpha Kolibri: How the sovereign German LLM works](https://tej.as/blog/aleph-alpha-kolibri) | 417pt | 🆕 新着 |
-| 6 | [LeCun has "zero concerns" about AI wiping out humanity, recent "r…](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) | 389pt | 🆕 新着 |
-| 7 | [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) | 359pt | 🆕 新着 |
-| 8 | [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) | 336pt | 🆕 新着 |
-| 9 | [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | 283pt | 🆕 新着 |
-| 10 | [OpenAI safety leader quits, warning AI company's culture is 'brok…](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) | 267pt | 🆕 新着 |
-| 11 | [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) | 232pt | 🆕 新着 |
-| 12 | [Nvidia wants to put a watchdog chip next to every AI agent](https://www.cnbc.com/2026/09/28/nvidia-releases.html) | 230pt | 🆕 新着 |
-| 13 | [FTC is investigating OpenAI, Anthropic and other AI companies ove…](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html) | 210pt | 🆕 新着 |
-| 14 | [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5) | 207pt | 🆕 新着 |
-| 15 | [SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat t…](https://www.youtube.com/watch?v=-Nvne3LzBls) | 197pt | 🔁 既出 |
+| 1 | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | 1,353pt | 🆕 新着 |
+| 2 | [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | 1,046pt | 🆕 新着 |
+| 3 | [Anthropic reported diary entry to police, woman faces felony char…](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) | 836pt | 🆕 新着 |
+| 4 | [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | 756pt | 🆕 新着 |
+| 5 | [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) | 432pt | 🆕 新着 |
+| 6 | [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090) | 379pt | 🆕 新着 |
+| 7 | [Meta and Microsoft take steps to reduce employee usage of Claude …](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) | 376pt | 🆕 新着 |
+| 8 | [OpenAI fires three safety researchers for "mishandling research i…](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/) | 365pt | 🆕 新着 |
+| 9 | [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 356pt | 🆕 新着 |
+| 10 | [OpenAI Withdraws 3 Math Papers](https://github.com/openai/math/blob/main/history.md) | 342pt | 🆕 新着 |
+| 11 | [Talorys – A self-hosted personal AI agent on Cloudflare's free ti…](https://github.com/rociiu/talorys) | 323pt | 🆕 新着 |
+| 12 | [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) | 306pt | 🆕 新着 |
+| 13 | [I think I found a planet nobody knew existed. I used Claude Code …](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9) | 299pt | 🆕 新着 |
+| 14 | [Claude Code’s suggested message feature: I think the real custome…](https://www.zohaib.cc/blog/smartest-claude-code-feature) | 269pt | 🆕 新着 |
+| 15 | [Anthropic AI model submits false tip on unsolved Philly murder, p…](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/) | 212pt | 🆕 新着 |
 
 ### Hugging Face
 
-**🆕 新着 47 件**
+**🆕 新着 45 件**
 
 | # | タイトル | スコア | 日付 |
 |---:|---|---:|---|
-| 1 | [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 5,901like | 2026-08-24 |
-| 2 | [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncen…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | 1,426like | 2026-09-01 |
-| 3 | [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | 1,247like | 2026-09-30 |
-| 4 | [Alissonerdx/BFS-Best-Face-Swap](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) | 1,186like | 2025-11-07 |
-| 5 | [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | 560like | 2026-09-07 |
-| 6 | [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) | 437like | 2026-09-30 |
-| 7 | [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) | 424like | 2026-10-02 |
-| 8 | [SupersonicLabs/Julia-1](https://huggingface.co/SupersonicLabs/Julia-1) | 420like | 2026-09-23 |
-| 9 | [PSRben/VisionHOPE](https://huggingface.co/PSRben/VisionHOPE) | 405like | 2026-09-29 |
-| 10 | [orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF](https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF) | 365like | 2026-09-26 |
-| 11 | [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF) | 318like | 2026-09-17 |
-| 12 | [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA) | 292like | 2026-09-25 |
-| 13 | [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF) | 261like | 2026-09-26 |
-| 14 | [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw) | 219like | 2026-10-01 |
-| 15 | [FermionResearch/Phonon-2](https://huggingface.co/FermionResearch/Phonon-2) | 204like | 2026-09-28 |
+| 1 | [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | 5,028like | 2026-08-13 |
+| 2 | [facebook/sam3](https://huggingface.co/facebook/sam3) | 4,073like | 2025-11-07 |
+| 3 | [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) | 1,747like | 2026-09-14 |
+| 4 | [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) | 1,139like | 2026-09-11 |
+| 5 | [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF) | 763like | 2026-08-26 |
+| 6 | [Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | 552like | 2026-10-09 |
+| 7 | [canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning) | 359like | 2026-10-01 |
+| 8 | [AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF) | 337like | 2026-10-09 |
+| 9 | [Cactus-Compute/whistle](https://huggingface.co/Cactus-Compute/whistle) | 337like | 2026-09-30 |
+| 10 | [ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0) | 327like | 2026-10-08 |
+| 11 | [LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B) | 301like | 2026-10-05 |
+| 12 | [unsloth/embeddinggemma-2-GGUF](https://huggingface.co/unsloth/embeddinggemma-2-GGUF) | 259like | 2026-10-06 |
+| 13 | [nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Gro…](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2) | 242like | 2026-10-04 |
+| 14 | [FrancisRing/Prism](https://huggingface.co/FrancisRing/Prism) | 162like | 2026-09-24 |
+| 15 | [speridlabs/iris-3b](https://huggingface.co/speridlabs/iris-3b) | 156like | 2026-10-05 |
 
-**📈 前回から伸びたもの 13 件**
+**📈 前回から伸びたもの 15 件**
 
 | # | タイトル | 現在 | 増加 |
 |---:|---|---:|---:|
-| 1 | [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | 2,860like | **+1,168** |
-| 2 | [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) | 3,155like | **+1,044** |
-| 3 | [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) | 5,169like | **+1,042** |
-| 4 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | 6,334like | **+987** |
-| 5 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 16,949like | **+514** |
-| 6 | [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 2,954like | **+445** |
-| 7 | [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) | 718like | **+304** |
-| 8 | [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 4,097like | **+277** |
-| 9 | [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) | 675like | **+263** |
-| 10 | [Viggle/Qwen-Image-2.1-viggle-turbo](https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo) | 591like | **+244** |
-| 11 | [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) | 2,421like | **+221** |
-| 12 | [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) | 1,960like | **+179** |
-| 13 | [fastino/GLiNER2.5-Decide](https://huggingface.co/fastino/GLiNER2.5-Decide) | 369like | **+160** |
+| 1 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | 7,338like | **+1,004** |
+| 2 | [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) | 4,002like | **+847** |
+| 3 | [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | 2,031like | **+784** |
+| 4 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 17,518like | **+569** |
+| 5 | [Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1) | 888like | **+464** |
+| 6 | [Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF) | 691like | **+373** |
+| 7 | [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) | 5,495like | **+326** |
+| 8 | [Cloudflare/clef-flash](https://huggingface.co/Cloudflare/clef-flash) | 759like | **+322** |
+| 9 | [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 3,231like | **+277** |
+| 10 | [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 4,369like | **+272** |
+| 11 | [ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) | 802like | **+242** |
+| 12 | [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncen…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | 1,659like | **+233** |
+| 13 | [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 6,114like | **+213** |
+| 14 | [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) | 2,633like | **+212** |
+| 15 | [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) | 2,155like | **+195** |
 
 **総合トップ 15 件**（前回も掲載されたものには 🔁 が付きます）
 
 | # | タイトル | スコア | 状態 |
 |---:|---|---:|---|
-| 1 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 16,949like | 🔁 既出 |
-| 2 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | 6,334like | 🔁 既出 |
-| 3 | [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 5,901like | 🆕 新着 |
-| 4 | [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) | 5,169like | 🔁 既出 |
-| 5 | [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 4,097like | 🔁 既出 |
-| 6 | [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) | 3,155like | 🔁 既出 |
-| 7 | [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 2,954like | 🔁 既出 |
-| 8 | [TaichuAI/ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | 2,860like | 🔁 既出 |
-| 9 | [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) | 2,421like | 🔁 既出 |
-| 10 | [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) | 1,960like | 🔁 既出 |
-| 11 | [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncen…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | 1,426like | 🆕 新着 |
-| 12 | [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | 1,247like | 🆕 新着 |
-| 13 | [Alissonerdx/BFS-Best-Face-Swap](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) | 1,186like | 🆕 新着 |
-| 14 | [Contrastive-LM/CLM-v0.1-8B](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) | 718like | 🔁 既出 |
-| 15 | [nvidia/Nemotron-3-Diarization](https://huggingface.co/nvidia/Nemotron-3-Diarization) | 675like | 🔁 既出 |
+| 1 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | 17,518like | 🔁 既出 |
+| 2 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | 7,338like | 🔁 既出 |
+| 3 | [Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | 6,114like | 🔁 既出 |
+| 4 | [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya) | 5,495like | 🔁 既出 |
+| 5 | [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | 5,028like | 🆕 新着 |
+| 6 | [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) | 4,369like | 🔁 既出 |
+| 7 | [facebook/sam3](https://huggingface.co/facebook/sam3) | 4,073like | 🆕 新着 |
+| 8 | [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) | 4,002like | 🔁 既出 |
+| 9 | [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | 3,231like | 🔁 既出 |
+| 10 | [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) | 2,633like | 🔁 既出 |
+| 11 | [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) | 2,155like | 🔁 既出 |
+| 12 | [Cloudflare/clef](https://huggingface.co/Cloudflare/clef) | 2,031like | 🔁 既出 |
+| 13 | [google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) | 1,747like | 🆕 新着 |
+| 14 | [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncen…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | 1,659like | 🔁 既出 |
+| 15 | [jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer) | 1,139like | 🆕 新着 |
 
 ### arXiv（論文）
 
@@ -388,63 +381,63 @@
 
 | # | タイトル | スコア | 日付 |
 |---:|---|---:|---|
-| 1 | [Less Decoder is More Encoder: Geometric Representation Learning f…](http://arxiv.org/abs/2610.03717v1) | — | 2026-10-02 |
-| 2 | [4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic S…](http://arxiv.org/abs/2610.03715v1) | — | 2026-10-02 |
-| 3 | [What Should World Models Forget? Stratified Retention for Continu…](http://arxiv.org/abs/2610.03713v1) | — | 2026-10-02 |
-| 4 | [EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist …](http://arxiv.org/abs/2610.03710v1) | — | 2026-10-02 |
-| 5 | [Language Models that Play Chess and Explain Their Moves](http://arxiv.org/abs/2610.03695v1) | — | 2026-10-02 |
-| 6 | [Transcriptome-informed multi-modal AI for predicting neoadjuvant …](http://arxiv.org/abs/2610.03693v1) | — | 2026-10-02 |
-| 7 | [FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution](http://arxiv.org/abs/2610.03675v1) | — | 2026-10-02 |
-| 8 | [Pivot-SD: Efficient Self-Distillation for Masked Diffusion Langua…](http://arxiv.org/abs/2610.03665v1) | — | 2026-10-02 |
-| 9 | [Revisiting Input Time-frequency Representations in Multi-pitch Es…](http://arxiv.org/abs/2610.03656v1) | — | 2026-10-02 |
-| 10 | [MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector S…](http://arxiv.org/abs/2610.03651v1) | — | 2026-10-02 |
-| 11 | [On-Board Anomaly Detection for Efficient Marine Environmental Mon…](http://arxiv.org/abs/2610.03649v1) | — | 2026-10-02 |
-| 12 | [Do Large Language Models Know Colombian Law? A Reliability Benchm…](http://arxiv.org/abs/2610.03639v1) | — | 2026-10-02 |
-| 13 | [LoGo: Local-Global Rewards for Consistent Long-Horizon Video Gene…](http://arxiv.org/abs/2610.03636v1) | — | 2026-10-02 |
-| 14 | [Credit Where It Matters: Dependency-Aware Policy Optimization for…](http://arxiv.org/abs/2610.03634v1) | — | 2026-10-02 |
-| 15 | [World Embedding Benchmark](http://arxiv.org/abs/2610.03632v1) | — | 2026-10-02 |
+| 1 | [Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1) | — | 2026-10-09 |
+| 2 | [Hide and Seek: HIDE Concepts to SEEK explanations for black box m…](http://arxiv.org/abs/2610.13935v1) | — | 2026-10-09 |
+| 3 | [RSI-Anything: Unlocking Recursive Self-Improvement with World Mod…](http://arxiv.org/abs/2610.13912v1) | — | 2026-10-09 |
+| 4 | [When VLMs Destroy What They Know: Spatial Representations Fall Be…](http://arxiv.org/abs/2610.13910v1) | — | 2026-10-09 |
+| 5 | [Revisiting Tabular Deep Regression: Objectives and the Limits of …](http://arxiv.org/abs/2610.13909v1) | — | 2026-10-09 |
+| 6 | [Structural Automata for Neural Semantic Parsing](http://arxiv.org/abs/2610.13896v1) | — | 2026-10-09 |
+| 7 | [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) | — | 2026-10-09 |
+| 8 | [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dy…](http://arxiv.org/abs/2610.13889v1) | — | 2026-10-09 |
+| 9 | [X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service…](http://arxiv.org/abs/2610.13886v1) | — | 2026-10-09 |
+| 10 | [Ask Your Advisor: Learning When to Consult Stronger Models in Age…](http://arxiv.org/abs/2610.13870v1) | — | 2026-10-09 |
+| 11 | [Studying Comics at Scale with Artificial Intelligence: The PAGE F…](http://arxiv.org/abs/2610.13840v1) | — | 2026-10-09 |
+| 12 | [SpatialASM: Internalizing Active Mentalization for Spatial Reason…](http://arxiv.org/abs/2610.13832v1) | — | 2026-10-09 |
+| 13 | [MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minec…](http://arxiv.org/abs/2610.13829v1) | — | 2026-10-09 |
+| 14 | [OpenPA: Forced-alignment-free Multi-granular Pronunciation Assess…](http://arxiv.org/abs/2610.13826v1) | — | 2026-10-09 |
+| 15 | [Same Query, Different Answer: Run-to-Run Variance in Semantic Que…](http://arxiv.org/abs/2610.13823v1) | — | 2026-10-09 |
 
 ### Zenn（日本語）
 
-**🆕 新着 64 件**
+**🆕 新着 69 件**
 
 | # | タイトル | スコア | 日付 |
 |---:|---|---:|---|
-| 1 | [【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました](https://zenn.dev/algoartis/articles/0b1c731881b25c) | 508♥ | 2026-10-01 |
-| 2 | [AI開発時代だからこそ、テストの役割を見つめ直す](https://zenn.dev/ababup1192/articles/77b844dcfc1529) | 244♥ | 2026-09-29 |
-| 3 | [Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました](https://zenn.dev/o8vm/articles/3934806424cd85) | 125♥ | 2026-09-29 |
-| 4 | [目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ](https://zenn.dev/spookies/articles/e70b80a510f5e2) | 82♥ | 2026-09-29 |
-| 5 | [実務において敵対的レビューはどの程度有効なのか](https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef) | 46♥ | 2026-10-01 |
-| 6 | [AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる](https://zenn.dev/softbank/articles/6f98cf7c4ebfd3) | 44♥ | 2026-09-29 |
-| 7 | [完全版 Claude Mods 入門 ¦ Claude Codeを自由にカスタマイズする](https://zenn.dev/nogu66/articles/claude-mods-complete-guide) | 37♥ | 2026-10-02 |
-| 8 | [Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事](https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions) | 34♥ | 2026-09-29 |
-| 9 | [オブザーバビリティのAIエージェントをどう評価するか](https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop) | 24♥ | 2026-10-01 |
-| 10 | [【メモ】pstack (Claude Code 移植版pstack-claude) のスタック構成とオーケストレーションを読む](https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo) | 23♥ | 2026-10-03 |
-| 11 | [Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った](https://zenn.dev/tksfjt1024/articles/25c0ab111c277c) | 14♥ | 2026-10-01 |
-| 12 | [社内の生成AIガイドライン、ひな形が決めてくれない7つのこと](https://zenn.dev/edash_tech_blog/articles/70012db782c763) | 13♥ | 2026-09-30 |
-| 13 | [本当に「判断」していますか？](https://zenn.dev/dyoshikawa/articles/do-you-desicion) | 12♥ | 2026-10-05 |
-| 14 | [Strands Decider 2Bについて理解する](https://zenn.dev/fusic/articles/db6e62832a4a1f) | 12♥ | 2026-10-02 |
-| 15 | [PCの中を見たことがなかった新人が、ChatGPTに写真を見せながらメモリを8GB→32GBに増設した話](https://zenn.dev/tokium_dev/articles/laptop-memory-upgrade-with-chatgpt) | 10♥ | 2026-10-01 |
+| 1 | [俺のAIプログラミング手法(2026/10/05)](https://zenn.dev/mizchi/articles/ai-coding-loop-formal) | 1,086♥ | 2026-10-05 |
+| 2 | [嫌われるデザインの歴史](https://zenn.dev/blackmose/articles/de0170a13be930) | 441♥ | 2026-10-06 |
+| 3 | [オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ](https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1) | 69♥ | 2026-10-05 |
+| 4 | [Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した](https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles) | 58♥ | 2026-10-08 |
+| 5 | [若手エンジニアに必要だと感じた「AIを使う力」](https://zenn.dev/muit_techblog/articles/6ea28887c79457) | 57♥ | 2026-10-08 |
+| 6 | [レビューの口伝を40ルールに棚卸ししてAIレビューに載せた](https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12) | 42♥ | 2026-10-07 |
+| 7 | [Mods で Claude Code のセッションごとに管理できるメモ帳を作った](https://zenn.dev/yesodco/articles/da634d752874b2) | 35♥ | 2026-10-06 |
+| 8 | [AIで浮いた時間を「もっと作る」に使っていませんか](https://zenn.dev/idealog/articles/a3e9cf4299b1cf) | 30♥ | 2026-10-09 |
+| 9 | [JevとClefを画像生成AIのプロダクトに組み込もう!](https://zenn.dev/radius5/articles/20261004-j3v7cl3f) | 30♥ | 2026-10-05 |
+| 10 | [【速報】Claude の新機能 Claude Motion 早速使ってみた](https://zenn.dev/branbran/articles/047821d64590f0) | 29♥ | 2026-10-10 |
+| 11 | [🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと](https://zenn.dev/bita/articles/1616afdb93c4a6) | 27♥ | 2026-10-08 |
+| 12 | [Snowflake Agent Identity 徹底解説](https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction) | 26♥ | 2026-10-08 |
+| 13 | [こんな時代だから Seasar2 を構築してみようか](https://zenn.dev/tokium_dev/articles/4dbec90075dab0) | 23♥ | 2026-10-06 |
+| 14 | [Opus 5.5でモーショングラフィックを作って絶望した話](https://zenn.dev/actbe_tech/articles/4b8a5d9252fbbc) | 16♥ | 2026-10-09 |
+| 15 | [「ELYZA-Thinking-1.0-llm-jp-4」シリーズの学習方法と評価結果](https://zenn.dev/elyza/articles/79a3d4ed4be915) | 12♥ | 2026-10-08 |
 
 **総合トップ 15 件**（前回も掲載されたものには 🔁 が付きます）
 
 | # | タイトル | スコア | 状態 |
 |---:|---|---:|---|
-| 1 | [【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました](https://zenn.dev/algoartis/articles/0b1c731881b25c) | 508♥ | 🆕 新着 |
-| 2 | [AI開発時代だからこそ、テストの役割を見つめ直す](https://zenn.dev/ababup1192/articles/77b844dcfc1529) | 244♥ | 🆕 新着 |
-| 3 | [Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました](https://zenn.dev/o8vm/articles/3934806424cd85) | 125♥ | 🆕 新着 |
-| 4 | [目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ](https://zenn.dev/spookies/articles/e70b80a510f5e2) | 82♥ | 🆕 新着 |
-| 5 | [実務において敵対的レビューはどの程度有効なのか](https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef) | 46♥ | 🆕 新着 |
-| 6 | [AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる](https://zenn.dev/softbank/articles/6f98cf7c4ebfd3) | 44♥ | 🆕 新着 |
-| 7 | [完全版 Claude Mods 入門 ¦ Claude Codeを自由にカスタマイズする](https://zenn.dev/nogu66/articles/claude-mods-complete-guide) | 37♥ | 🆕 新着 |
-| 8 | [Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事](https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions) | 34♥ | 🆕 新着 |
-| 9 | [オブザーバビリティのAIエージェントをどう評価するか](https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop) | 24♥ | 🆕 新着 |
-| 10 | [【メモ】pstack (Claude Code 移植版pstack-claude) のスタック構成とオーケストレーションを読む](https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo) | 23♥ | 🆕 新着 |
-| 11 | [Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った](https://zenn.dev/tksfjt1024/articles/25c0ab111c277c) | 14♥ | 🆕 新着 |
-| 12 | [社内の生成AIガイドライン、ひな形が決めてくれない7つのこと](https://zenn.dev/edash_tech_blog/articles/70012db782c763) | 13♥ | 🆕 新着 |
-| 13 | [本当に「判断」していますか？](https://zenn.dev/dyoshikawa/articles/do-you-desicion) | 12♥ | 🆕 新着 |
-| 14 | [Strands Decider 2Bについて理解する](https://zenn.dev/fusic/articles/db6e62832a4a1f) | 12♥ | 🆕 新着 |
-| 15 | [PCの中を見たことがなかった新人が、ChatGPTに写真を見せながらメモリを8GB→32GBに増設した話](https://zenn.dev/tokium_dev/articles/laptop-memory-upgrade-with-chatgpt) | 10♥ | 🆕 新着 |
+| 1 | [俺のAIプログラミング手法(2026/10/05)](https://zenn.dev/mizchi/articles/ai-coding-loop-formal) | 1,086♥ | 🆕 新着 |
+| 2 | [嫌われるデザインの歴史](https://zenn.dev/blackmose/articles/de0170a13be930) | 441♥ | 🆕 新着 |
+| 3 | [オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ](https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1) | 69♥ | 🆕 新着 |
+| 4 | [Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した](https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles) | 58♥ | 🆕 新着 |
+| 5 | [若手エンジニアに必要だと感じた「AIを使う力」](https://zenn.dev/muit_techblog/articles/6ea28887c79457) | 57♥ | 🆕 新着 |
+| 6 | [レビューの口伝を40ルールに棚卸ししてAIレビューに載せた](https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12) | 42♥ | 🆕 新着 |
+| 7 | [Mods で Claude Code のセッションごとに管理できるメモ帳を作った](https://zenn.dev/yesodco/articles/da634d752874b2) | 35♥ | 🆕 新着 |
+| 8 | [AIで浮いた時間を「もっと作る」に使っていませんか](https://zenn.dev/idealog/articles/a3e9cf4299b1cf) | 30♥ | 🆕 新着 |
+| 9 | [JevとClefを画像生成AIのプロダクトに組み込もう!](https://zenn.dev/radius5/articles/20261004-j3v7cl3f) | 30♥ | 🆕 新着 |
+| 10 | [【速報】Claude の新機能 Claude Motion 早速使ってみた](https://zenn.dev/branbran/articles/047821d64590f0) | 29♥ | 🆕 新着 |
+| 11 | [🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと](https://zenn.dev/bita/articles/1616afdb93c4a6) | 27♥ | 🆕 新着 |
+| 12 | [Snowflake Agent Identity 徹底解説](https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction) | 26♥ | 🆕 新着 |
+| 13 | [こんな時代だから Seasar2 を構築してみようか](https://zenn.dev/tokium_dev/articles/4dbec90075dab0) | 23♥ | 🆕 新着 |
+| 14 | [Opus 5.5でモーショングラフィックを作って絶望した話](https://zenn.dev/actbe_tech/articles/4b8a5d9252fbbc) | 16♥ | 🆕 新着 |
+| 15 | [「ELYZA-Thinking-1.0-llm-jp-4」シリーズの学習方法と評価結果](https://zenn.dev/elyza/articles/79a3d4ed4be915) | 12♥ | 🆕 新着 |
 
 ### Qiita（日本語）
 
@@ -452,41 +445,41 @@
 
 | # | タイトル | スコア | 日付 |
 |---:|---|---:|---|
-| 1 | [API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた](https://qiita.com/songchong/items/02672765fe53f911a1a0) | 19LGTM | 2026-10-05 |
-| 2 | [Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】](https://qiita.com/nogataka/items/a2f89a94d243b1b715cb) | 17LGTM | 2026-10-02 |
-| 3 | [結局、Looped Transformerってなんや？](https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e) | 10LGTM | 2026-10-04 |
-| 4 | [ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説](https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e) | 8LGTM | 2026-10-04 |
-| 5 | [Jevで動く1,000人の街を作って、仮想住民にインタビューできるようにしてみた](https://qiita.com/nogataka/items/db0cea4c9c93e078786c) | 7LGTM | 2026-10-02 |
-| 6 | [LLMのJSON Schemaを厳しくしても業務検証を消せない理由](https://qiita.com/TechStudioLab/items/0bbf128791023cc90893) | 6LGTM | 2026-10-04 |
-| 7 | [技術だけでは足りない。フリーランスエンジニアがプロジェクト進行で大切にしている「お客様とのコミュニケーション」](https://qiita.com/Love_Apple/items/cf0dc40161022d75909c) | 6LGTM | 2026-10-03 |
-| 8 | [仕事が忙しいので、プライベートに AI 秘書を雇ってみた](https://qiita.com/araom/items/83f8180524500f685416) | 6LGTM | 2026-10-04 |
-| 9 | [新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く](https://qiita.com/suwa_nobu/items/5252da854dbebe02cccc) | 4LGTM | 2026-10-05 |
-| 10 | [マンガを作るワークフローの全貌（2026年9月時点）](https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0) | 4LGTM | 2026-10-04 |
-| 11 | [2026年10月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/13be43e39ee6864d7105) | 3LGTM | 2026-10-05 |
-| 12 | [JAWS-UG 新潟支部にて 「AgentCoreで実践するハーネスエンジニアリング」というタイトルで登壇しました](https://qiita.com/yakumo_09/items/106cc9768d5b1c78225e) | 3LGTM | 2026-10-04 |
-| 13 | [文章を書かずに「選ぶだけ」のAI、Jevが続々登場？任せ方を整理｜10/4のQiitaトレンド20本をポッドキャストで](https://qiita.com/ennagara128/items/25c2b4895ebcc875ca44) | 3LGTM | 2026-10-04 |
-| 14 | [AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例](https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2) | 3LGTM | 2026-10-04 |
-| 15 | [RAG構築が一気に簡単に？Oracle Private Agent Factory のKnowledge Agent Nodeを試…](https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9) | 3LGTM | 2026-10-03 |
+| 1 | [サイバーセキュリティを勉強するなら今？おすすめリソース紹介](https://qiita.com/leolui2004/items/226062f17e55202e8c47) | 28LGTM | 2026-10-11 |
+| 2 | [個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと](https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0) | 3LGTM | 2026-10-11 |
+| 3 | [「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくな…](https://qiita.com/shu15511551/items/ea723c5d81a14f507fba) | 3LGTM | 2026-10-11 |
+| 4 | [AIエージェント向けAPIを設計して分かった「自由にさせるための制約」](https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1) | 3LGTM | 2026-10-09 |
+| 5 | [Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する](https://qiita.com/masakazuimai/items/cd80e1e913532864b615) | 3LGTM | 2026-10-11 |
+| 6 | [Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い…](https://qiita.com/charge0315/items/fcec85cc5250e39bab97) | 3LGTM | 2026-10-11 |
+| 7 | [【愚痴】今のAI開発は間違っている](https://qiita.com/compalog/items/a883eb6894a5a1ca70b6) | 2LGTM | 2026-10-11 |
+| 8 | [【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った](https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f) | 2LGTM | 2026-10-11 |
+| 9 | [「エグゼクティブデザインで」の一言で色が変わる理由 ── Claudeがお休みに入り、Geminiと自律ループで表を美化し、ついで…](https://qiita.com/shu15511551/items/48fb771c427d24405287) | 2LGTM | 2026-10-11 |
+| 10 | [【用語ざっくり】グラウンディングとは？ ─ RAGとの違いを図解で整理する](https://qiita.com/Tadataka_Takahashi/items/0baa782b8c4e4ed13d4c) | 2LGTM | 2026-10-11 |
+| 11 | [【10月9日公開】Claudeが「練習」で本番フォームを送信。4種類の逸脱と、評価環境を守る3つの方法](https://qiita.com/emi_ndk/items/303281980b5b1d50baa1) | 2LGTM | 2026-10-10 |
+| 12 | [Hermes Agentのマルチエージェント実行を整理する ― delegate_task / Kanban / Kanban S…](https://qiita.com/Tadataka_Takahashi/items/fd6426814a9f37ceaf44) | 2LGTM | 2026-10-08 |
+| 13 | [自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと](https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98) | 2LGTM | 2026-10-11 |
+| 14 | [Claude Codeの「プロジェクト」(Claude Code Projects)機能を1週間使って分かった、良かったこと・困っ…](https://qiita.com/corocojam/items/b6400595c5afa3db3bf3) | 2LGTM | 2026-10-10 |
+| 15 | [2026年10月9日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/87882f751b9ab8f77216) | 2LGTM | 2026-10-09 |
 
 **総合トップ 15 件**（前回も掲載されたものには 🔁 が付きます）
 
 | # | タイトル | スコア | 状態 |
 |---:|---|---:|---|
-| 1 | [API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた](https://qiita.com/songchong/items/02672765fe53f911a1a0) | 19LGTM | 🆕 新着 |
-| 2 | [Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】](https://qiita.com/nogataka/items/a2f89a94d243b1b715cb) | 17LGTM | 🆕 新着 |
-| 3 | [結局、Looped Transformerってなんや？](https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e) | 10LGTM | 🆕 新着 |
-| 4 | [ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説](https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e) | 8LGTM | 🆕 新着 |
-| 5 | [Jevで動く1,000人の街を作って、仮想住民にインタビューできるようにしてみた](https://qiita.com/nogataka/items/db0cea4c9c93e078786c) | 7LGTM | 🆕 新着 |
-| 6 | [LLMのJSON Schemaを厳しくしても業務検証を消せない理由](https://qiita.com/TechStudioLab/items/0bbf128791023cc90893) | 6LGTM | 🆕 新着 |
-| 7 | [技術だけでは足りない。フリーランスエンジニアがプロジェクト進行で大切にしている「お客様とのコミュニケーション」](https://qiita.com/Love_Apple/items/cf0dc40161022d75909c) | 6LGTM | 🆕 新着 |
-| 8 | [仕事が忙しいので、プライベートに AI 秘書を雇ってみた](https://qiita.com/araom/items/83f8180524500f685416) | 6LGTM | 🆕 新着 |
-| 9 | [新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く](https://qiita.com/suwa_nobu/items/5252da854dbebe02cccc) | 4LGTM | 🆕 新着 |
-| 10 | [マンガを作るワークフローの全貌（2026年9月時点）](https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0) | 4LGTM | 🆕 新着 |
-| 11 | [2026年10月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/13be43e39ee6864d7105) | 3LGTM | 🆕 新着 |
-| 12 | [JAWS-UG 新潟支部にて 「AgentCoreで実践するハーネスエンジニアリング」というタイトルで登壇しました](https://qiita.com/yakumo_09/items/106cc9768d5b1c78225e) | 3LGTM | 🆕 新着 |
-| 13 | [文章を書かずに「選ぶだけ」のAI、Jevが続々登場？任せ方を整理｜10/4のQiitaトレンド20本をポッドキャストで](https://qiita.com/ennagara128/items/25c2b4895ebcc875ca44) | 3LGTM | 🆕 新着 |
-| 14 | [AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例](https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2) | 3LGTM | 🆕 新着 |
-| 15 | [RAG構築が一気に簡単に？Oracle Private Agent Factory のKnowledge Agent Nodeを試…](https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9) | 3LGTM | 🆕 新着 |
+| 1 | [サイバーセキュリティを勉強するなら今？おすすめリソース紹介](https://qiita.com/leolui2004/items/226062f17e55202e8c47) | 28LGTM | 🆕 新着 |
+| 2 | [個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと](https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0) | 3LGTM | 🆕 新着 |
+| 3 | [「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくな…](https://qiita.com/shu15511551/items/ea723c5d81a14f507fba) | 3LGTM | 🆕 新着 |
+| 4 | [AIエージェント向けAPIを設計して分かった「自由にさせるための制約」](https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1) | 3LGTM | 🆕 新着 |
+| 5 | [Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する](https://qiita.com/masakazuimai/items/cd80e1e913532864b615) | 3LGTM | 🆕 新着 |
+| 6 | [Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い…](https://qiita.com/charge0315/items/fcec85cc5250e39bab97) | 3LGTM | 🆕 新着 |
+| 7 | [【愚痴】今のAI開発は間違っている](https://qiita.com/compalog/items/a883eb6894a5a1ca70b6) | 2LGTM | 🆕 新着 |
+| 8 | [【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った](https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f) | 2LGTM | 🆕 新着 |
+| 9 | [「エグゼクティブデザインで」の一言で色が変わる理由 ── Claudeがお休みに入り、Geminiと自律ループで表を美化し、ついで…](https://qiita.com/shu15511551/items/48fb771c427d24405287) | 2LGTM | 🆕 新着 |
+| 10 | [【用語ざっくり】グラウンディングとは？ ─ RAGとの違いを図解で整理する](https://qiita.com/Tadataka_Takahashi/items/0baa782b8c4e4ed13d4c) | 2LGTM | 🆕 新着 |
+| 11 | [【10月9日公開】Claudeが「練習」で本番フォームを送信。4種類の逸脱と、評価環境を守る3つの方法](https://qiita.com/emi_ndk/items/303281980b5b1d50baa1) | 2LGTM | 🆕 新着 |
+| 12 | [Hermes Agentのマルチエージェント実行を整理する ― delegate_task / Kanban / Kanban S…](https://qiita.com/Tadataka_Takahashi/items/fd6426814a9f37ceaf44) | 2LGTM | 🆕 新着 |
+| 13 | [自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと](https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98) | 2LGTM | 🆕 新着 |
+| 14 | [Claude Codeの「プロジェクト」(Claude Code Projects)機能を1週間使って分かった、良かったこと・困っ…](https://qiita.com/corocojam/items/b6400595c5afa3db3bf3) | 2LGTM | 🆕 新着 |
+| 15 | [2026年10月9日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/87882f751b9ab8f77216) | 2LGTM | 🆕 新着 |
 
 ### Reddit
 
